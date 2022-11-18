@@ -8,7 +8,12 @@ function Header() {
       <div className="logo-container">
         <img src={logo} className="logo" alt="logo" />
       </div>
-      <div>CARD MEMORY GAME</div>
+      <div>
+        <div>CARD MEMORY GAME</div>
+        <div className="instructions">
+          SCORE POINTS BY CLICKING ON EACH IMAGE ONLY ONCE!
+        </div>
+      </div>
       <div className="logo-container">
         <img src={logo} className="logo" alt="logo" />
       </div>
