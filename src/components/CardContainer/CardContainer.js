@@ -18,7 +18,7 @@ function CardContainer(props) {
     for (let i = 0; i < cardsInfoList.length; i += 1) {
       const newCard = (
         <Card
-          key={cardsInfoList[i].id}
+          key={`key-${cardsInfoList[i].id}`}
           id={cardsInfoList[i].id}
           url={images[i]}
           alt={cardsInfoList[i].shortname}
