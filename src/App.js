@@ -1,5 +1,6 @@
 import "./App.css";
 import Header from "./components/Header/Header.js";
+import CardContainer from "./components/CardContainer/CardContainer";
 import Footer from "./components/Footer/Footer.js";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <CardContainer />
       <Footer />
     </div>
   );

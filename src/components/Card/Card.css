@@ -1,0 +1,18 @@
+.card {
+  border-style: solid;
+
+  font-family: inherit;
+  font-size: 0.8rem;
+}
+
+.card img {
+  max-width: 160px;
+}
+
+.short-name {
+  font-weight: bold;
+}
+
+.born {
+  font-size: 0.6rem;
+}
