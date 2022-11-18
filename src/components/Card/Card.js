@@ -3,7 +3,11 @@ import "./Card.css";
 
 function Card(props) {
   return (
-    <div className="card" id={`card-${props.id}`}>
+    <div
+      className="card"
+      id={`card-${props.id}`}
+      onClick={props.cardClickHandler}
+    >
       <img className="player-image" src={props.url} alt={props.alt}></img>
       <div className="short-name">{props.shortname}</div>
       <div className="nickname">{props.nickname}</div>

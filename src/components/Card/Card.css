@@ -2,12 +2,20 @@
   border-color: #bd141b;
   border-radius: 6px;
   border-style: solid;
+  border-width: 3px;
 
   font-family: inherit;
   font-size: 1rem;
 }
 
+.card:hover {
+  box-shadow: 3px 3px 3px #bd141b;
+}
+
 .card img {
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+
   max-width: 160px;
 }
 

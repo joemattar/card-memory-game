@@ -27,6 +27,7 @@ function CardContainer(props) {
           nickname={`"${cardsInfoList[i].nickname}"`}
           born={cardsInfoList[i].born}
           position={cardsInfoList[i].position}
+          cardClickHandler={props.cardClickHandler}
         />
       );
       cardsList.push(newCard);
