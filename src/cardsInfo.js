@@ -1,5 +1,6 @@
 const cardsInfo = {
   bobbyHull: {
+    id: 1,
     name: "Robert Marvin Hull",
     shortname: "Bobby Hull",
     nickname: "The Golden Jet",
@@ -8,6 +9,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/bobby-hull.jpeg",
   },
   bobbyOrr: {
+    id: 2,
     name: "Robert Gordon Orr",
     shortname: "Bobby Orr",
     nickname: "Number 4",
@@ -16,6 +18,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/bobby-orr.jpeg",
   },
   gordieHowe: {
+    id: 3,
     name: "Gordon 'Gordie' Howe",
     shortname: "Gordie Howe",
     nickname: "Mr. Hockey",
@@ -24,6 +27,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/gordie-howe.jpeg",
   },
   guyLafleur: {
+    id: 4,
     name: "Guy Damien Lafleur",
     shortname: "Guy Lafleur",
     nickname: "The Flower",
@@ -32,6 +36,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/guy-lafleur.jpeg",
   },
   henriRichard: {
+    id: 5,
     name: "Joseph Henri Richard",
     shortname: "Henri Richard",
     nickname: "Pocket Rocket",
@@ -40,6 +45,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/henri-richard.jpeg",
   },
   joeSakic: {
+    id: 6,
     name: "Joseph Steven Sakic",
     shortname: "Joe Sakic",
     nickname: "Burnaby Joe",
@@ -48,6 +54,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/joe-sakic.jpeg",
   },
   jonathanToews: {
+    id: 7,
     name: "Jonathan Bryan Toews",
     shortname: "Jonathan Toews",
     nickname: "Captain Serious",
@@ -56,6 +63,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/jonathan-toews.jpeg",
   },
   marioLemieux: {
+    id: 8,
     name: "Joseph Mario Lemieux",
     shortname: "Mario Lemieux",
     nickname: "The Magnificent One",
@@ -64,6 +72,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/mario-lemieux.jpeg",
   },
   markMessier: {
+    id: 9,
     name: "Mark John Douglas Messier",
     shortname: "Mark Messier",
     nickname: "The Moose",
@@ -72,6 +81,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/mark-messier.jpeg",
   },
   martinBrodeur: {
+    id: 10,
     name: "Martin Pierre Brodeur",
     shortname: "Martin Brodeur",
     nickname: "Marty Brody",
@@ -80,6 +90,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/martin-brodeur-2013.jpeg",
   },
   mauriceRichard: {
+    id: 11,
     name: "Joseph Henri Maurice Richard",
     shortname: "Maurice Richard",
     nickname: "The Rocket",
@@ -88,6 +99,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/maurice-richard.jpeg",
   },
   patrickRoy: {
+    id: 12,
     name: "Patrick Jacques Roy",
     shortname: "Patrick Roy",
     nickname: "Saint Patrick",
@@ -96,6 +108,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/patrick-roy.jpeg",
   },
   philEsposito: {
+    id: 13,
     name: "Philip Anthony Esposito",
     shortname: "Phil Esposito",
     nickname: "Espo",
@@ -104,6 +117,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/phil-esposito.jpeg",
   },
   sidneyCrosby: {
+    id: 14,
     name: "Sidney Patrick Crosby",
     shortname: "Sidney Crosby",
     nickname: "Sid The Kid",
@@ -112,6 +126,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/sidney-crosby.jpeg",
   },
   steveYzerman: {
+    id: 15,
     name: "Stephen Gregory Yzerman",
     shortname: "Stephen Yzerman",
     nickname: "The Captain",
@@ -120,6 +135,7 @@ const cardsInfo = {
     url: "/assets/pictures/cropped/steve-yzerman.jpeg",
   },
   wayneGretzky: {
+    id: 16,
     name: "Wayne Douglas Gretzky",
     shortname: "Wayne Gretzky",
     nickname: "The Great One",
