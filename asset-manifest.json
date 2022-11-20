@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/card-memory-game/static/css/main.a62291c1.css",
+    "main.js": "/card-memory-game/static/js/main.1301fd81.js",
+    "static/media/Hockey-Canada.png": "/card-memory-game/static/media/Hockey-Canada.bb9ee6989ce4ff601114.png",
+    "static/media/Gruppo-Regular.ttf": "/card-memory-game/static/media/Gruppo-Regular.2393675620be8c54ff95.ttf",
+    "static/media/Share-Regular.ttf": "/card-memory-game/static/media/Share-Regular.380ba4337f16f81374cd.ttf",
+    "static/media/Share-Bold.ttf": "/card-memory-game/static/media/Share-Bold.3b6d1306ca784fdf2660.ttf",
+    "static/media/steve-yzerman.jpeg": "/card-memory-game/static/media/steve-yzerman.e0626017095595ce5912.jpeg",
+    "static/media/mark-messier.jpeg": "/card-memory-game/static/media/mark-messier.05269176f3cdfa7ee323.jpeg",
+    "static/media/wayne-gretzky-1981.jpeg": "/card-memory-game/static/media/wayne-gretzky-1981.1abb196434a7321d611d.jpeg",
+    "static/media/henri-richard.jpeg": "/card-memory-game/static/media/henri-richard.8a6602d505bd5eaeee31.jpeg",
+    "static/media/martin-brodeur-2013.jpeg": "/card-memory-game/static/media/martin-brodeur-2013.09639cf5e06e6594338b.jpeg",
+    "static/media/maurice-richard.jpeg": "/card-memory-game/static/media/maurice-richard.b8dd7aa5d2289b06b8a2.jpeg",
+    "static/media/jonathan-toews.jpeg": "/card-memory-game/static/media/jonathan-toews.d915cf25dd1f5cc90cd9.jpeg",
+    "static/media/sidney-crosby.jpeg": "/card-memory-game/static/media/sidney-crosby.b30c572080544521778d.jpeg",
+    "static/media/gordie-howe.jpeg": "/card-memory-game/static/media/gordie-howe.f9acdd0695f71a1ff4cc.jpeg",
+    "static/media/joe-sakic.jpeg": "/card-memory-game/static/media/joe-sakic.97a7ea1c4241603e4f16.jpeg",
+    "static/media/patrick-roy.jpeg": "/card-memory-game/static/media/patrick-roy.ce71509e2b22173fa87a.jpeg",
+    "static/media/bobby-hull.jpeg": "/card-memory-game/static/media/bobby-hull.4581acb866974d6088f1.jpeg",
+    "static/media/phil-esposito.jpeg": "/card-memory-game/static/media/phil-esposito.8b3330e0a306572b232e.jpeg",
+    "static/media/guy-lafleur.jpeg": "/card-memory-game/static/media/guy-lafleur.2ed693056ca99ed1a8ab.jpeg",
+    "static/media/bobby-orr.jpeg": "/card-memory-game/static/media/bobby-orr.8a7663a9e7282262d2df.jpeg",
+    "static/media/mario-lemieux.jpeg": "/card-memory-game/static/media/mario-lemieux.527a8f4933bad6232579.jpeg",
+    "static/media/Bauer.ttf": "/card-memory-game/static/media/Bauer.db0cc2ba2b0b5d5775c9.ttf",
+    "index.html": "/card-memory-game/index.html",
+    "main.a62291c1.css.map": "/card-memory-game/static/css/main.a62291c1.css.map",
+    "main.1301fd81.js.map": "/card-memory-game/static/js/main.1301fd81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a62291c1.css",
+    "static/js/main.1301fd81.js"
+  ]
+}
