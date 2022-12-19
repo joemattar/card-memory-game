@@ -6,8 +6,6 @@ import CardContainer from "./components/CardContainer/CardContainer";
 import Footer from "./components/Footer/Footer.js";
 
 function App() {
-  document.title = "Card Memory Game";
-
   const [currentScore, setCurrentScore] = useState(0);
   const [highScore, setHighScore] = useState(0);
   const [clickedCards, setClickedCards] = useState([]);
